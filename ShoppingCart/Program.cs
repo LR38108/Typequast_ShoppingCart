@@ -63,6 +63,7 @@ namespace ShoppingCartProject
 
                     }
                     Console.ReadLine();
+                    return;
                 }else if(userInput == "end")
                 {
                     Environment.Exit(0);
