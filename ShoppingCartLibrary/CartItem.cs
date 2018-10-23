@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShoppingCartProject
 {
-    public class CartItem : IEquatable<CartItem>
+    public class CartItem : IEquatable<CartItem> //https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1?view=netframework-4.7.2
     {
         #region Properties
 

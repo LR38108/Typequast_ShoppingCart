@@ -37,7 +37,7 @@ namespace ShoppingCartProject
             do
             {
                 menu.ShowInventory(menu);
-                Console.WriteLine("What product do you need? (Type \"exit\" to end shopping) ");
+                Console.WriteLine("What product do you need? Select number (Type \"exit\" to end shopping) ");
                 input = Console.ReadLine().ToLower().Replace(" ", "");
                 if (input != "exit" && Int32.TryParse(input, out qty))
                 {
@@ -50,7 +50,7 @@ namespace ShoppingCartProject
                             if(menu.inventory.Find(x => x.Id == Convert.ToInt32(input)).stock >= qty)
                             {
                                 sc.Add(Convert.ToInt32(input));
-                                menu.inventory.Find(x => x.Id == Convert.ToInt32(input)).stock = menu.inventory.Find(x => x.Id == Convert.ToInt32(input)).stock - qty;
+                                menu.inventory.Find(x => x.Id == Convert.ToInt32(input)).stock = menu.inventory.Find(x => x.Id == Convert.ToInt32(input)).stock - qty; // Nisam smislio alternativu?
                                 sc.SetItemQuantity(Convert.ToInt32(input), qty);
                             }
                             else
