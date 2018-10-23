@@ -1,0 +1,16 @@
+D:\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ShoppingCartLibrary.csproj.CoreCompileInputs.cache
+D:\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Materijali\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\bin\Debug\ShoppingCartLibrary.dll
+D:\Materijali\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\bin\Debug\ShoppingCartLibrary.pdb
+D:\Materijali\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ShoppingCartLibrary.csprojResolveAssemblyReference.cache
+D:\Materijali\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ShoppingCartLibrary.dll
+D:\Materijali\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ShoppingCartLibrary.pdb
+C:\Users\Luka\Desktop\cart1\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\bin\Debug\ShoppingCartLibrary.dll
+C:\Users\Luka\Desktop\cart1\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\bin\Debug\ShoppingCartLibrary.pdb
+C:\Users\Luka\Desktop\cart1\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ShoppingCartLibrary.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\cart1\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ShoppingCartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\cart1\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ShoppingCartLibrary.dll
+C:\Users\Luka\Desktop\cart1\ShoppingCart\Typequast_ShoppingCart\ClassLibrary1\obj\Debug\ShoppingCartLibrary.pdb
