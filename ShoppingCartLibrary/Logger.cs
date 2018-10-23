@@ -14,6 +14,7 @@ namespace ShoppingCartProject
     {
         public void Log(List<CartItem> list, List<IDiscount> discountList)
         {
+            Console.Write("\n-----Logging to console-----");
             Console.Write("\n" + DateTime.Now);
             Console.Write("\nThe cart contains:\n");
             foreach (CartItem i in list)
